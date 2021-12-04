@@ -10,4 +10,6 @@ Requerimientos para acceder al notebook desde Anaconda:
  ![alt text](https://miro.medium.com/max/1200/1*CrzFvh-ha0mkhUrA3q786A.png)
  
 4. Buscar la **carpeta proyecto_final_programacion_MCD** en la pestaña de 'Files' en Jupyter.
-5. 
+ ![alt text](select_file.png)
+5. Dar click al notebook **Proyecto_final.ipynb**
+ ![alt text](select_notebook.png)
