@@ -7,7 +7,7 @@ Las enfermedades cardiovasculares (ECV) son la principal causa de muerte a nivel
 
 Las personas con enfermedad cardiovascular o que se encuentran en alto riesgo cardiovascular (debido a la presencia de uno o más factores de riesgo como hipertensión, diabetes, hiperlipidemia o enfermedad ya establecida) necesitan una detección y manejo precoces donde un modelo de aprendizaje automático puede ser de gran ayuda.
 
-Los datos se obtuvieron a partir de la plataforma de Kaggle: [Heart Failure Prediction](https://www.kaggle.com/fedesoriano/heart-failure-prediction). La descripción de los datos se encuentran dentro del notebook.
+Los datos se obtuvieron a partir de la plataforma de Kaggle: [Heart Failure Prediction](https://www.kaggle.com/fedesoriano/heart-failure-prediction). La descripción de los datos se encuentra dentro del notebook.
 
 ## Reproducibilidad y Manipulación del Notebook
 
